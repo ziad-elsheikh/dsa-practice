@@ -1,9 +1,3 @@
-// more features
-// 1. generic
-// 2. i want to integrate in good application
-// push aka append
-
-
 #include <stdio.h>
 #include <stdlib.h>
 #define NEW_INT(val) ((object_t){.type = INTEGER, .data.v_int = val})
